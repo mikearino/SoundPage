@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/soundpage/static/css/main.b422a8b5.css",
+    "main.js": "/soundpage/static/js/main.7515d5c5.js",
+    "static/js/787.3c7daf40.chunk.js": "/soundpage/static/js/787.3c7daf40.chunk.js",
+    "static/media/forest.wav": "/soundpage/static/media/forest.b76e6d595bed11a4be20.wav",
+    "static/media/logo512.png": "/soundpage/static/media/logo512.39805643cefd9890e7ee.png",
+    "index.html": "/soundpage/index.html",
+    "main.b422a8b5.css.map": "/soundpage/static/css/main.b422a8b5.css.map",
+    "main.7515d5c5.js.map": "/soundpage/static/js/main.7515d5c5.js.map",
+    "787.3c7daf40.chunk.js.map": "/soundpage/static/js/787.3c7daf40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b422a8b5.css",
+    "static/js/main.7515d5c5.js"
+  ]
+}
