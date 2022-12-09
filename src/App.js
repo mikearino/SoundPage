@@ -1,13 +1,23 @@
-import logo from './logo.svg';
+import logo from './logo512.png';
 import './App.css';
+import sound from './forest.wav';
 
 function App() {
+
+  function play() {
+    new Audio(sound).play()
+  }
+
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+       <button onClick={play}>
+        <img class="hover" src={logo} className="App-logo" alt="logo" />
+
+       </button>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Click the image to test sound!!
         </p>
         <a
           className="App-link"
