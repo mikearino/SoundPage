@@ -1,3 +1,19 @@
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+p {
+  color: black;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +30,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(239, 239, 239);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -46,7 +62,7 @@
       }
   
       25% {
-        transform: translate(5px, 5px) rotate(5deg);
+        transform: translate(5px, 10px) rotate(5deg);
       }
   
       50% {

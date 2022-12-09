@@ -17,15 +17,15 @@ function App() {
 
        </button>
         <p>
-          Click the image to test sound!!
+          Click the image to test your speakers&#128266;!!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.mikeylofgren.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Made with &#10084; by Mike
         </a>
       </header>
     </div>
